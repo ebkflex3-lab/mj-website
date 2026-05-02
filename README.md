@@ -1,2 +1,0 @@
-# mj-website
-Project 
